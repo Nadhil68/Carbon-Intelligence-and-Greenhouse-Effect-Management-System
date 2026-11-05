@@ -1,0 +1,8 @@
+{
+  "name": "Carbon Intelligence and Greenhouse Effect Management System",
+  "description": "Centralized institutional platform to monitor, manage, analyze, and reduce campus greenhouse gas emissions with role-based access for Admin, Operators, and Viewers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
